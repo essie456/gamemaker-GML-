@@ -167,10 +167,26 @@
             }
         },
         {
+            "Key": "df20da31-43c1-4948-b496-f18808a30f1e",
+            "Value": {
+                "id": "f38e1e26-9c0f-414b-a59b-bdcadc8d9d8c",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "df36e303-d2bb-4d46-b2d0-2bcd57710157",
             "Value": {
                 "id": "bc09b6d4-8214-45eb-a144-83cbe5c40029",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e462e16b-e97f-4637-8000-723f891086b5",
+            "Value": {
+                "id": "13aee925-a829-49a6-9b84-d61e1320b0b9",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
             }
         },
