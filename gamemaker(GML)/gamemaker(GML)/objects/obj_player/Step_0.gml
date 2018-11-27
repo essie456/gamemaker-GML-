@@ -10,7 +10,7 @@ image_angle = point_direction(x,y,mouse_x,mouse_y)
 //Shoot
 if (mouse_check_button(mb_left)) && (cooldown < 1)
 {
-	instance_create_layer(mouse_x,mouse_y,"bulletslayer",obj_bullet)
+	instance_create_layer(x,y,"bulletslayer",obj_bullet)
 	cooldown = 3;
 	
 }
