@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "33067561-4ec3-41d8-a49e-8c9a07515bf7",
+            "Value": {
+                "id": "bad3315b-3b47-4e83-8f22-48999b93b218",
+                "resourcePath": "sprites\\spr_titlescreen\\spr_titlescreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34155383-c9d0-4dd5-8000-91b74feb56db",
             "Value": {
                 "id": "499fe23d-f652-477d-a777-e42fdef45ab4",
@@ -116,6 +124,22 @@
                 "id": "f26b5154-8210-4115-9e23-5f803f86e8a7",
                 "resourcePath": "views\\540a290a-3cd3-4c87-8f0a-cb44731388d6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "676a98de-e57d-4dcb-89be-7b98523f0688",
+            "Value": {
+                "id": "e9110f4b-ccc3-49a9-8ec4-77bb75cb2f68",
+                "resourcePath": "sprites\\spr_darktile\\spr_darktile.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "67822d8c-e9b4-494a-80b0-cff3e0411f5e",
+            "Value": {
+                "id": "c6b2448a-e5d8-4b7c-981c-30a04ceef031",
+                "resourcePath": "rooms\\rm_tittle\\rm_tittle.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -207,6 +231,14 @@
             }
         },
         {
+            "Key": "cd582207-eabf-4a0d-8f99-804cd9732544",
+            "Value": {
+                "id": "82b3eb7c-67c1-4498-9866-f96474fcf02f",
+                "resourcePath": "objects\\obj_tittle\\obj_tittle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d40a0f95-2c0f-4531-9ebb-7a219f09f322",
             "Value": {
                 "id": "214304c6-0805-4f79-95e5-33806ce7f6dd",
@@ -228,6 +260,14 @@
                 "id": "bc09b6d4-8214-45eb-a144-83cbe5c40029",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df40d481-b91a-4593-af8e-aed6fb5d8840",
+            "Value": {
+                "id": "93b8384d-2a9e-488d-b75d-a99fbbac8086",
+                "resourcePath": "fonts\\fnt_score\\fnt_score.yy",
+                "resourceType": "GMFont"
             }
         },
         {
